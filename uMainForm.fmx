@@ -1,0 +1,85 @@
+object frmMain: TfrmMain
+  Left = 0
+  Top = 0
+  Caption = 'Kimi Wolvox Mobile'
+  ClientHeight = 640
+  ClientWidth = 360
+  FormFactor.Width = 360
+  FormFactor.Height = 640
+  object ToolBar1: TToolBar
+    Height = 48
+    Width = 360
+    object Label1: TLabel
+      Text = 'Kimi Wolvox'
+      Align = Client
+    end
+  end
+  object MemoPrompt: TMemo
+    Position.Y = 48
+    Width = 360
+    Height = 80
+  end
+  object MemoSQL: TMemo
+    Position.Y = 136
+    Width = 360
+    Height = 80
+  end
+  object ListBox1: TListBox
+    Position.Y = 224
+    Width = 360
+    Height = 200
+  end
+  object btnMic: TButton
+    Position.Y = 432
+    Width = 90
+    Height = 50
+    Text = '🎤'
+  end
+  object btnKimi: TButton
+    Position.X = 90
+    Position.Y = 432
+    Width = 90
+    Height = 50
+    Text = '🧠'
+  end
+  object btnExcel: TButton
+    Position.X = 180
+    Position.Y = 432
+    Width = 90
+    Height = 50
+    Text = '📊'
+  end
+  object btnFatura: TButton
+    Position.X = 270
+    Position.Y = 432
+    Width = 90
+    Height = 50
+    Text = '🧾'
+  end
+  object btnQR: TButton
+    Position.X = 90
+    Position.Y = 488
+    Width = 90
+    Height = 50
+    Text = '📷'
+  end
+  object btnSync: TButton
+    Position.X = 180
+    Position.Y = 488
+    Width = 90
+    Height = 50
+    Text = '☁️'
+  end
+  object btnNotify: TButton
+    Position.X = 270
+    Position.Y = 488
+    Width = 90
+    Height = 50
+    Text = '🔔'
+  end
+  object imgQR: TImage
+    Position.Y = 544
+    Width = 100
+    Height = 100
+  end
+end

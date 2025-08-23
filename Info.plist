@@ -1,0 +1,6 @@
+<key>NSMicrophoneUsageDescription</key>
+<string>Sesli komut için mikrofon kullanılacak</string>
+<key>NSCameraUsageDescription</key>
+<string>QR taramak için kamera kullanılacak</string>
+<key>NSAppTransportSecurity</key>
+<dict><key>NSAllowsArbitraryLoads</key><true/></dict>
