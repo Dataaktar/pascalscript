@@ -20,7 +20,7 @@ begin
   Query := TFDQuery.Create(nil);
   try
     Conn.Params.DriverID := 'FB';
-    Conn.Params.Database := 'C:\Wolvox\DATA\WOLVOX.FDB';
+    Conn.Params.Database := 'C:\Wolvox\DATABASE_FB\20\2025\WOLVOX.FDB';
     Conn.Params.UserName := 'SYSDBA';
     Conn.Params.Password := 'masterkey';
     Conn.Connected := True;
