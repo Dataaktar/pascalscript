@@ -1,4 +1,5 @@
 program KimiWolvoxFull;
+{$APPTYPE GUI}
 uses
   System.StartUpCopy,
   FMX.Forms,
