@@ -1,4 +1,4 @@
-# Kimi Wolvox Mobile
+# Kimi erp Mobile
 Delphi FMX (Android/iOS) uygulaması:  
 Sesli komut → Kimi AI → SQL → Firebird → Excel → QR → Firebase → RPA
 
@@ -7,7 +7,3 @@ Sesli komut → Kimi AI → SQL → Firebird → Excel → QR → Firebase → R
 2. Tüm dosyaları ekle  
 3. Android/iOS target seç  
 4. Build & Run  
-
-## API Key
-- Kimi: sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-- Firebase: https://wolvox-ai-default-rtdb.firebaseio.com
